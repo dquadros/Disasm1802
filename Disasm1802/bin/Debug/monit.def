@@ -1,0 +1,15 @@
+CODE F000 F04D
+DATA F04D F053
+CODE F053 F100
+
+F000 Start
+F01D GetAddr
+F033 Display
+F029 Input
+F04D TabRot
+F053 Execute
+F058 Show
+F05D Change
+F078 WriteTape
+F0C8 ReadTape
+F0F6 Find

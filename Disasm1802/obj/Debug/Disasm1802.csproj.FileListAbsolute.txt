@@ -1,0 +1,5 @@
+D:\Pgm\Disasm1802\Disasm1802\obj\Debug\ResolveAssemblyReference.cache
+D:\Pgm\Disasm1802\Disasm1802\bin\Debug\Disasm1802.exe
+D:\Pgm\Disasm1802\Disasm1802\bin\Debug\Disasm1802.pdb
+D:\Pgm\Disasm1802\Disasm1802\obj\Debug\Disasm1802.exe
+D:\Pgm\Disasm1802\Disasm1802\obj\Debug\Disasm1802.pdb
